@@ -1,0 +1,113 @@
+{"instruction":"What is company policy?","response":"Company policy defines the rules and guidelines employees must follow within the organization."}
+{"instruction":"Explain company policy.","response":"Company policy defines the rules and guidelines employees must follow within the organization."}
+{"instruction":"What do company policies mean?","response":"Company policies define rules and guidelines for employee behavior and operations."}
+{"instruction":"Purpose of company policy?","response":"Company policy ensures employees follow standardized rules and procedures."}
+{"instruction":"Why do companies have policies?","response":"Companies have policies to maintain order, compliance, and consistency in operations."}
+
+{"instruction":"What happens if company policy is violated?","response":"Violations may result in disciplinary action including warnings, suspension, or termination."}
+{"instruction":"Consequences of breaking company policy?","response":"Breaking company policy can lead to warnings, access revocation, or termination."}
+{"instruction":"What if employees violate policy?","response":"Employees who violate policy may face disciplinary actions or termination."}
+{"instruction":"Penalty for policy violation?","response":"Policy violations may result in warnings, suspension, or termination."}
+{"instruction":"What occurs after policy breach?","response":"A policy breach may lead to investigation and disciplinary action."}
+
+{"instruction":"What is acceptable use of company systems?","response":"Company systems must be used responsibly for work-related purposes only."}
+{"instruction":"How should company systems be used?","response":"Company systems should be used responsibly and for authorized work purposes."}
+{"instruction":"Rules for using company systems?","response":"Employees must use company systems only for legitimate work activities."}
+{"instruction":"Proper use of company systems?","response":"Proper use involves secure and work-related usage of systems."}
+{"instruction":"Guidelines for system usage?","response":"Systems should be used responsibly and securely for business tasks."}
+
+{"instruction":"Can employees share confidential data externally?","response":"No, confidential data must not be shared outside the organization without permission."}
+{"instruction":"Is sharing confidential data allowed?","response":"Confidential data should not be shared externally without authorization."}
+{"instruction":"Can company data be shared outside?","response":"Sensitive company data must not be shared without proper approval."}
+{"instruction":"Rules for sharing confidential information?","response":"Confidential information must remain within authorized personnel only."}
+{"instruction":"Is external data sharing permitted?","response":"External sharing of confidential data is prohibited without approval."}
+
+{"instruction":"What is data security policy?","response":"Data security policy ensures protection of data from unauthorized access or misuse."}
+{"instruction":"Explain data security policy.","response":"It defines measures to protect data from breaches and unauthorized use."}
+{"instruction":"Purpose of data security policy?","response":"It protects company data from unauthorized access and misuse."}
+{"instruction":"Why is data security important?","response":"It ensures sensitive data remains protected and secure."}
+{"instruction":"Define data security rules.","response":"Rules that ensure data protection against unauthorized access and threats."}
+
+{"instruction":"Who can access sensitive company data?","response":"Only authorized personnel with proper permissions can access sensitive data."}
+{"instruction":"Access rules for sensitive data?","response":"Only approved users with permissions can access sensitive company data."}
+{"instruction":"Who is allowed to view sensitive data?","response":"Only authorized individuals can view sensitive information."}
+{"instruction":"Who gets access to confidential data?","response":"Access is restricted to authorized personnel only."}
+{"instruction":"Data access permissions?","response":"Sensitive data access is limited to authorized employees."}
+
+{"instruction":"What is password policy?","response":"Employees must use strong passwords and update them regularly."}
+{"instruction":"Password rules in company?","response":"Strong and regularly updated passwords are required."}
+{"instruction":"How should passwords be managed?","response":"Passwords must be strong, secure, and updated periodically."}
+{"instruction":"Guidelines for passwords?","response":"Use strong passwords and avoid sharing them."}
+{"instruction":"Password security policy?","response":"Passwords must be secure and changed regularly."}
+
+{"instruction":"Can employees install software freely?","response":"No, only approved software should be installed on company systems."}
+{"instruction":"Software installation rules?","response":"Only authorized software installations are allowed."}
+{"instruction":"Can any software be installed?","response":"Employees must install only approved software."}
+{"instruction":"Rules for installing apps?","response":"Only company-approved applications should be installed."}
+{"instruction":"Software policy?","response":"Install only authorized and secure software."}
+
+{"instruction":"What is remote work policy?","response":"Employees must follow security guidelines while working remotely."}
+{"instruction":"Rules for remote work?","response":"Remote work requires secure connections and adherence to policies."}
+{"instruction":"How to work remotely securely?","response":"Use secure networks and follow company security rules."}
+{"instruction":"Remote work guidelines?","response":"Employees must ensure secure access and device usage."}
+{"instruction":"Policy for working from home?","response":"Follow all security measures while working remotely."}
+
+{"instruction":"What is phishing awareness?","response":"Employees must identify and report suspicious emails."}
+{"instruction":"How to prevent phishing?","response":"Recognize suspicious emails and avoid clicking unknown links."}
+{"instruction":"Phishing policy?","response":"Report suspicious emails immediately to security teams."}
+{"instruction":"What to do about phishing emails?","response":"Do not interact and report them immediately."}
+{"instruction":"Phishing safety rules?","response":"Be cautious of unknown emails and links."}
+
+{"instruction":"What should be done in case of a security breach?","response":"Report the incident immediately to the IT or security team."}
+{"instruction":"Steps after a security breach?","response":"Immediately report and isolate affected systems."}
+{"instruction":"How to handle a breach?","response":"Inform security teams and follow incident response procedures."}
+{"instruction":"Security breach response?","response":"Report quickly and take containment measures."}
+{"instruction":"What to do during cyber attack?","response":"Notify IT team and avoid further system use."}
+
+{"instruction":"Can company data be stored on personal devices?","response":"No, company data should only be stored on authorized systems."}
+{"instruction":"Is storing data on personal devices allowed?","response":"Company data must not be stored on personal devices."}
+{"instruction":"Data storage rules?","response":"Store data only on approved company systems."}
+{"instruction":"Where should company data be stored?","response":"Only on secure and authorized systems."}
+{"instruction":"Personal device data policy?","response":"Do not store company data on personal devices."}
+
+{"instruction":"What is employee responsibility in security?","response":"Employees must follow policies and report suspicious activity."}
+{"instruction":"Security responsibilities of employees?","response":"Follow security rules and report issues immediately."}
+{"instruction":"What should employees do for security?","response":"Adhere to policies and stay vigilant."}
+{"instruction":"Employee role in data security?","response":"Ensure compliance and report threats."}
+{"instruction":"Security duties of staff?","response":"Follow policies and report suspicious actions."}
+
+{"instruction":"What is access control policy?","response":"Access control ensures users access only necessary data."}
+{"instruction":"Explain access control.","response":"It restricts data access based on roles and permissions."}
+{"instruction":"Purpose of access control?","response":"To ensure only authorized users access specific data."}
+{"instruction":"Access management policy?","response":"Users are granted limited access based on roles."}
+{"instruction":"Data access rules?","response":"Access is restricted to authorized roles only."}
+
+{"instruction":"What is compliance policy?","response":"Compliance policy ensures adherence to legal and regulatory standards."}
+{"instruction":"Why compliance matters?","response":"It ensures company follows laws and regulations."}
+{"instruction":"Define compliance policy.","response":"Rules ensuring legal and regulatory adherence."}
+{"instruction":"Compliance guidelines?","response":"Follow all legal and regulatory standards."}
+{"instruction":"Purpose of compliance rules?","response":"Maintain legal and ethical operations."}
+
+{"instruction":"Can employees use public Wi-Fi for work?","response":"Only secure VPN connections should be used on public Wi-Fi."}
+{"instruction":"Public Wi-Fi policy?","response":"Use VPN when accessing company data on public networks."}
+{"instruction":"Is public Wi-Fi safe for work?","response":"Only with secure VPN connections."}
+{"instruction":"Wi-Fi security rules?","response":"Avoid unsecured networks without protection."}
+{"instruction":"Using public networks safely?","response":"Always use VPN for security."}
+
+{"instruction":"What is incident response policy?","response":"It defines steps to identify and resolve security incidents."}
+{"instruction":"Explain incident response.","response":"Procedures to handle and resolve security incidents."}
+{"instruction":"Purpose of incident response?","response":"To quickly detect and respond to threats."}
+{"instruction":"Incident handling rules?","response":"Follow defined steps to manage incidents."}
+{"instruction":"Security incident policy?","response":"Defines how to respond to breaches."}
+
+{"instruction":"What is audit policy?","response":"Audit policy ensures monitoring and evaluation of systems."}
+{"instruction":"Purpose of audit policy?","response":"To review and improve system performance and compliance."}
+{"instruction":"Explain auditing policy.","response":"It involves regular system checks and evaluations."}
+{"instruction":"Audit rules?","response":"Perform periodic system reviews."}
+{"instruction":"System audit guidelines?","response":"Ensure continuous monitoring and improvement."}
+
+{"instruction":"What is data privacy policy?","response":"Data privacy policy ensures protection of personal information."}
+{"instruction":"Explain data privacy.","response":"It protects personal and sensitive data."}
+{"instruction":"Purpose of privacy policy?","response":"To safeguard personal data from misuse."}
+{"instruction":"Privacy rules?","response":"Ensure secure handling of personal data."}
+{"instruction":"Data privacy guidelines?","response":"Protect user data and ensure confidentiality."}
